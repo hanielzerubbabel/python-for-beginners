@@ -11,5 +11,13 @@ print('''multi line statement.going going to third line''')
 print(100)
 print(1+5)
 print(1/1)
+print(10,20,30)
+print("my age is",8)
+print('my age is',8)
+print("python" *3)
+print("hello","world",sep=" ")
+print('hello','world',sep='-')
+print('hello','world',sep='_')
+print('hello','world',sep=',')
 
 
