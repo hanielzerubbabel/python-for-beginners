@@ -18,6 +18,3 @@ print("python" *3)
 print("hello","world",sep=" ")
 print('hello','world',sep='-')
 print('hello','world',sep='_')
-print('hello','world',sep=',')
-
-
