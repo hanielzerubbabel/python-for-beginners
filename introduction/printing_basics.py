@@ -1,3 +1,5 @@
+
+print('hello','world',sep='_')
 print("Hello World")
 print("Hello","World")
 print("Hi","How","Are","You")
@@ -16,5 +18,4 @@ print("my age is",8)
 print('my age is',8)
 print("python" *3)
 print("hello","world",sep=" ")
-print('hello','world',sep='-')
-print('hello','world',sep='_')
+print('hello','world')
